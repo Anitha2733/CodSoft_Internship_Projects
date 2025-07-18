@@ -1,50 +1,50 @@
-# CodSoft_Internship_Projects# ☕ Simple Java Projects
+# 💡 Simple Java Projects
 
-A collection of beginner-friendly **Java projects** built using **core object-oriented programming (OOP)** concepts, **collections**, and basic **file handling**.
-These projects are console-based and ideal for academic purposes or Java practice.
+This repository contains beginner-friendly Java console applications designed to demonstrate core Java concepts such as input/output, conditionals, loops, and basic object-oriented programming.
 
-## 📂 Projects Included
+## 📂 Project List
 
-### ✅ 1. Library Management System
-- Console-based book and member management.
-- Features: Add/Remove/Search Books, Issue/Return Books.
-- Concepts Used: Inheritance, Interfaces, File Handling, Collections.
-
-### ✅ 2. Expense Tracker
-- Track daily/monthly expenses.
-- Features: Add/View/Delete Expenses, Category-wise tracking.
-- Concepts Used: Java I/O, ArrayLists, Basic OOP.
-
-### ✅ 3. Student Management System
-- Manage student details and academic records.
-- Features: Add/Delete/Update student data.
-- Concepts Used: Encapsulation, Inheritance, Collections.
-
-### ✅ 4. Simple Voting System
-- Voting system with Admin and User modules.
-- Features: Candidate list, Vote casting, Result viewing.
-- Concepts Used: Basic Java, Loops, Arrays, OOP.
-
-### ✅ 5. To-Do List Manager
-- Create and manage a list of tasks.
-- Features: Add/Delete/Mark tasks.
-- Concepts Used: Collections, Class Design.
+### 🏧 ATM.java
+Simulates a basic ATM system.  
+**Features:**
+- Check balance
+- Deposit and withdraw money
+- Menu-driven interface with basic validation
 
 
+### 🏦 BankAccount.java
+Implements a simple bank account system using OOP principles.  
+**Features:**
+- Create account with account holder’s name and balance  
+- Deposit and withdraw operations  
+- Display account details
+
+
+### 🎲 GuessingGame.java
+A simple number guessing game using random number generation.  
+**Features:**
+- Random number between a defined range
+- Limited number of attempts
+- Feedback for each guess (too high/low)
+
+### 📊 StudentGrades.java
+Calculates and displays student grades.  
+**Features:**
+- Accept subject marks
+- Calculate total, average, and grade
+- Grade system: A/B/C/Fail
+
+### 🎓 StudentCourses.java
+Handles student course enrollments.  
+**Features:**
+- Input student info and enrolled courses
+- Store courses using arrays or collections
+- Display student with course list
 
 ## 🛠 Technologies Used
+- Java (Core)
+- Console-based interaction using `Scanner`
+- Object-Oriented Programming (where applicable)
+- Basic control structures (if, switch, loops)
 
-- **Java 17+**
-- **IntelliJ IDEA / Eclipse**
-- **Command Line Interface (CLI)**
 
-
-
-## 🎯 Key Concepts Practiced
-
-- ✅ Object-Oriented Programming (OOP)
-- ✅ Inheritance, Abstraction, Polymorphism
-- ✅ Java Collections (ArrayList, HashMap)
-- ✅ Exception Handling
-- ✅ File Handling (Text files)
-- ✅ Modular Design and Clean Coding.
