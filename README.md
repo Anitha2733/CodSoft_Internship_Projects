@@ -34,6 +34,7 @@ Calculates and displays student grades.
 - Calculate total, average, and grade
 - Grade system: A/B/C/Fail
 
+
 ### 🎓 StudentCourses.java
 Handles student course enrollments.  
 **Features:**
